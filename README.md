@@ -60,8 +60,9 @@ Thank you for using our bank website! If you have any feedback or suggestions, p
 
 ## Images From Website
 
-![Ekran Görüntüsü (28)](https://github.com/burcinozkan/webMidtermProject/assets/105969774/c0261e85-9b86-4925-a3b2-22afefd97a49)
-![Ekran Görüntüsü (29)](https://github.com/burcinozkan/webMidtermProject/assets/105969774/efcf7351-2679-43eb-b51f-3bd8a85a7032)
+
+![2](https://github.com/burcinozkan/webMidtermProject/assets/105969774/658ae9f1-797c-40b0-a88d-5284ab758fa4)
+![1](https://github.com/burcinozkan/webMidtermProject/assets/105969774/3ebaa8e5-630a-4cf4-8f92-710732026ef0)
 
 
 
