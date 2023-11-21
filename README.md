@@ -56,7 +56,6 @@ For any inquiries or assistance, feel free to contact us:
 - **Address:** London
 - **Customer Service:** [+1125645](tel:+1125645)
 
-Thank you for using our bank website! If you have any feedback or suggestions, please don't hesitate to reach out.
 
 ## Images From Website
 
