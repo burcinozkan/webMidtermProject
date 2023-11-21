@@ -62,6 +62,8 @@ Thank you for using our bank website! If you have any feedback or suggestions, p
 
 ![1](https://github.com/burcinozkan/webMidtermProject/assets/105969774/3ebaa8e5-630a-4cf4-8f92-710732026ef0)
 
+***
+
 ![2](https://github.com/burcinozkan/webMidtermProject/assets/105969774/658ae9f1-797c-40b0-a88d-5284ab758fa4)
 
 
